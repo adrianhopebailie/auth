@@ -1,0 +1,6 @@
+{
+  "default_applications": ["https://paywithpurse.com/manifest.json"],
+  "supported_origins": [
+    "https://paywithpurse.com"
+  ]
+}

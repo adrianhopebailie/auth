@@ -1,0 +1,20 @@
+{
+  "name": "auth-dialogue",
+  "version": "1.0.0",
+  "description": "Show an auth dialogue using the Payment APIs",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
+    "ts-loader": "^6.0.1",
+    "typescript": "^3.4.5",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "build": "tsc && webpack"
+  },
+  "license": "Apache-2.0"
+}
